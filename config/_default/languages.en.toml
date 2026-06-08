@@ -9,33 +9,52 @@ title = "Blowfish"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
+  logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
+  description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-# [params.author]
-#   name = "Your name here"
-#   email = "youremail@example.com"
-#   image = "img/blowfish_logo.png"
-#   imageQuality = 96
-#   headline = "I'm only human"
-#   bio = "A little bit about you"
-#   links = [
+[params.author]
+  name = "Dillon Chappell"
+  email = "chappell.dillon@gmail.com"
+  image = "themes/blowfish/assets/img/DC_Bluesky_Logo_1-8-25-02.jpg"
+  imageQuality = 96
+  headline = "Nerd with an awkward streak"
+  bio = """
+  I'm Dillon, a datacenter technician and aspiring software engineer 
+  based in the Long Beach area. I currently work at Microsoft's Fairwater 
+  Datacenter and hold a B.S. in Computer Science from Northern Illinois University.
+  I spend a lot of my free time running an extensive homelab — Proxmox, TrueNAS, 
+  UniFi networking, self-hosted media, the works. It's part hobby, part 
+  skill-builder, and it's taught me more than I could have learned any other way. 
+  My GitHub has projects ranging from a RISC-V CPU simulator in C++ to work across 
+  Python, Java, and JavaScript.
+
+  Professionally, I'm focused on breaking into software engineering, data 
+  engineering, and DevOps. I'm actively sharpening my skills in SQL, PySpark, 
+  and Python. One of my proudest moments was leading CrowdStrike incident 
+  recovery at Advocate Condell Medical Center — my team was the first in the 
+  region to get fully back online.
+
+  Outside of tech, I'm into Warhammer, D&D, 3D printing, and DIY home projects 
+  covering everything from electrical to plumbing. I'm also bilingual in English 
+  and Spanish.
+  """
+  links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
 #     { blogger = "https://username.blogspot.com/" },
-#     { bluesky = "https://bsky.app/profile/username" },
-#     { codepen = "https://codepen.io/username" },
+    { bluesky = "https://bsky.app/profile/dillonchappell.com" },
+    { codepen = "https://codepen.io/bloodiestchapel" },
 #     { dev = "https://dev.to/username" },
 #     { discord = "https://discord.gg/invitecode" },
 #     { dribbble = "https://dribbble.com/username" },
 #     { facebook = "https://facebook.com/username" },
 #     { flickr = "https://www.flickr.com/photos/username/" },
 #     { foursquare = "https://foursquare.com/username" },
-#     { github = "https://github.com/username" },
+    { github = "https://github.com/BloodiestChapel" },
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },
@@ -45,7 +64,7 @@ title = "Blowfish"
 #     { keyoxide = "https://keyoxide.org/URI" },
 #     { kickstarter = "https://www.kickstarter.com/profile/username" },
 #     { lastfm = "https://lastfm.com/user/username" },
-#     { linkedin = "https://linkedin.com/in/username" },
+    { linkedin = "https://www.linkedin.com/in/dillon-chappell/" },
 #     { mastodon = "https://mastodon.instance/@username" },
 #     { matrix = "https://matrix.to/#/URI" },
 #     { medium = "https://medium.com/username" },
@@ -58,8 +77,8 @@ title = "Blowfish"
 #     { signal = "https://signal.me/#eu/userid" },
 #     { slack = "https://workspace.url/team/userid" },
 #     { snapchat = "https://snapchat.com/add/username" },
-#     { soundcloud = "https://soundcloud.com/username" },
-#     { spotify = "https://open.spotify.com/user/userid" },
+    { soundcloud = "https://soundcloud.com/bloody-chapel" },
+    { spotify = "https://open.spotify.com/user/12745081?si=0607dcbef097453b" },
 #     { stack-overflow = "https://stackoverflow.com/users/userid/username" },
 #     { steam = "https://steamcommunity.com/profiles/userid" },
 #     { strava = "https://www.strava.com/athletes/username" },
@@ -67,13 +86,13 @@ title = "Blowfish"
 #     { threads = "https://www.threads.net/@username" },
 #     { tiktok = "https://tiktok.com/@username" },
 #     { tumblr = "https://username.tumblr.com" },
-#     { twitch = "https://twitch.tv/username" },
+    { twitch = "https://www.twitch.tv/bloodiestchapel" },
 #     { untappd = "https://untappd.com/user/username" },
 #     { twitter = "https://twitter.com/username" },
 #     { x-twitter = "https://twitter.com/username" },
 #     { whatsapp = "https://wa.me/phone-number" },
-#     { youtube = "https://youtube.com/username" },
+    { youtube = "https://www.youtube.com/@BloodyChappell" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
-#     { printables = "https://www.printables.com/@username"},
-#   ]
+    { printables = "https://www.printables.com/@BloodyChapel_2851219"},
+  ]
